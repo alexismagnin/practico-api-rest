@@ -1,7 +1,7 @@
 import Sequelize from 'sequelize';
 const dbname = "Facturas_TP";
 const user = "postgres";
-const pass = "0331Maaya";
+const pass = "admin";
 
 const database = new Sequelize(
     dbname, user, pass,
